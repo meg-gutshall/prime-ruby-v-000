@@ -1,5 +1,5 @@
 def prime?(num)
-  def num.each_prime(unbound) |prime|
-    prime.each(unbound)
+  def num.each_prime(unbound) |int|
+    int.each(unbound)
   end
 end
