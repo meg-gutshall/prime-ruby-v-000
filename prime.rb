@@ -3,4 +3,3 @@ def prime?(num)
     return false
   end
 end
-puts prime?(num)
